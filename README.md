@@ -1,1 +1,1 @@
-Hyprland for Microsoft(c) Windows(r)
+Hyprland for Windows 11
